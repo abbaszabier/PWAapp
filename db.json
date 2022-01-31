@@ -1,0 +1,24 @@
+{
+"people": [
+{"id":1,"Name":"Blinni","Category":1998},
+{"id":2,"Name":"Coletta","Category":1999},
+{"id":3,"Name":"Mandie","Category":1988},
+{"id":4,"Name":"Rustin","Category":2006},
+{"id":5,"Name":"Berenice","Category":2004},
+{"id":6,"Name":"Sidnee","Category":1998},
+{"id":7,"Name":"Gauthier","Category":2007},
+{"id":8,"Name":"Gina","Category":2006},
+{"id":9,"Name":"Tabbi","Category":1996},
+{"id":10,"Name":"Mia","Category":2011},
+{"id":11,"Name":"Gannie","Category":2008},
+{"id":12,"Name":"Giselbert","Category":1999},
+{"id":13,"Name":"Lorilee","Category":2009},
+{"id":14,"Name":"Angelle","Category":2009},
+{"id":15,"Name":"Joly","Category":1996},
+{"id":16,"Name":"Paulina","Category":2000},
+{"id":17,"Name":"Siward","Category":2009},
+{"id":18,"Name":"Alan","Category":1997},
+{"id":19,"Name":"Ber","Category":2000},
+{"id":20,"Name":"Helsa","Category":2009}
+]
+}
